@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Edi013 - friendly user 
+- 👋 Hi, I’m @Edi013 - friendly user from Craiova
 - 👀 I’m interested in Game development , Design and backend staff 
 - 🌱 I’m currently learning Unity , Aseprite and Photoshop for design , C++ and C# 
 - 💞️ I’m looking to collaborate on nothing for now 
