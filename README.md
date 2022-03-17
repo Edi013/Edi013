@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++, Python, but a lot of fun is HTML & CSS 
 - 💞️ I’m looking to collaborate on anything which can improve myself  
 - 📫 Reach me at edieduard02@yahoo.com || Discord EdiTu#1934 , or on social media (facebook) Eduard Ghenea ! 
-- 
+- :books: :film_strip: I get my fun hunger from SF & Adventure & Apocalyptic movies, series or books 
 
 
 
