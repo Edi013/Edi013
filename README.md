@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @Edi013 - friendly user from Craiova (RO) , wild about developing myself in a professional way _!
+- 👋 Hi, I’m @Edi013 - from Craiova (RO) 
+- 
+- __print_my_self__()
+- 
+- !!! Deep passion for - > programming < - (I have caught this feeling 1 year ago and it's still here !)
+- !!! Passion for - hardware (I do love Thinkpads💻 and MacBooks💻, but wait to see my PC 🖥️)  
+- !!!       ❤️🎬 - interact with people, eye contact is an ART
+- !!!          💸 - economics, investments (planned ones , not gambling), being smart with your money  
+- 
+- 🌩️ Wild about developing myself in a professional way _!!!_             
 - 👀 I’m interested in OOP & Algorithms  .  
-- 🌱 I’m currently learning C++, Python, but a lot of fun is HTML & CSS 
+- 🌱 I’m currently learning C++, Python, HTML & CSS. 
+- 🌱 Excited & Eager to learn : Java, Cloud mechanics, TeamUp & TeamWork .
+
+- ♻️ I get my fun hunger from  - Hardware restoration, clean up  & recycling  
+- 📚                           - SF , Adventure , Apocalyptic movies, series🎬 or books📚 
+- 🥬                           - organizing time, things 
+
 - 💞️ I’m looking to collaborate on anything which can improve myself  
-- 📫 Reach me at edieduard02@yahoo.com || Discord EdiTu#1934 , or on social media (facebook) Eduard Ghenea ! 
-- :books: :film_strip: I get my fun hunger from SF & Adventure & Apocalyptic movies, series or books 
-
-
-
+- 📫 Reach me at edymare97@yahoo.com || Discord EdiTu#1934 , or on social media (facebook): Eduard Ghenea ! 
 
 
 
