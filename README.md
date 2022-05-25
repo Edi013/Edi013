@@ -9,7 +9,7 @@
 - 🌱 Excited & Eager to learn : Java, Cloud mechanics, TeamUp & TeamWork .
 
 
-- !!! Deep passion for - > programming ❤️
+- !!! Deep passion - programming ❤️
 -     Passion for - hardware (I do love Thinkpads💻 and MacBooks💻, but wait to see my PC 🖥️)  
 -              🎬 - interact with people, eye contact is an ART
 -              💸 - economics, investments (planned ones , not gambling), being smart with your money  
@@ -20,7 +20,10 @@
 - 🥬                           - organizing time, things 
 
 - 💞️ I’m looking to collaborate on anything which can improve myself  
-- 📫 Reach me at edymare97@yahoo.com || Discord EdiTu#1934 , or on social media (facebook): Eduard Ghenea ! 
+- 📫 Reach me at : ghenea.eduard02@gmail.com
+- 📫   Discord   EdiTu#1934 
+- 📫   LinkedIn  https://www.linkedin.com/in/eduard-ghenea-a88675238/
+- 📫   Facebook  https://www.facebook.com/Ghenea.Eduard
 
 
 <!---
