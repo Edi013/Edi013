@@ -2,7 +2,7 @@
 - 
 - __print_my_self__()
 - 
-- !!! Deep passion for - > programming < - (I have caught this feeling 1 year ago and it's still here !)
+- !!! Deep passion for - > programming ❤️❤️❤️
 - !!! Passion for - hardware (I do love Thinkpads💻 and MacBooks💻, but wait to see my PC 🖥️)  
 - !!!       ❤️🎬 - interact with people, eye contact is an ART
 - !!!          💸 - economics, investments (planned ones , not gambling), being smart with your money  
