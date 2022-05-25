@@ -10,9 +10,9 @@
 
 
 - !!! Deep passion - programming ❤️
--     Passion for - hardware (I do love Thinkpads💻 and MacBooks💻, but wait to see my PC 🖥️)  
--              🎬 - interact with people, eye contact is an ART
--              💸 - economics, investments (planned ones , not gambling), being smart with your money  
+-     Passion for - hardware (Thinkpads💻 & MacBooks💻, but 🖥️)  
+-              🎬 - interact with people, eye contact is an ART .
+-              💸 - economics, investments, be smart with your money  !
 - 
 
 - ♻️ I get my fun hunger from  - Hardware restoration, clean up  & recycling  
