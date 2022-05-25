@@ -7,7 +7,7 @@
 - !!!       ❤️🎬 - interact with people, eye contact is an ART
 - !!!          💸 - economics, investments (planned ones , not gambling), being smart with your money  
 - 
-- 🌩️ Wild about developing myself in a professional way _!!!_             
+- 🌩️ Eager to develop myself in a professional way _!!!_             
 - 👀 I’m interested in OOP & Algorithms  .  
 - 🌱 I’m currently learning C++, Python, HTML & CSS. 
 - 🌱 Excited & Eager to learn : Java, Cloud mechanics, TeamUp & TeamWork .
