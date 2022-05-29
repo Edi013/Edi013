@@ -5,8 +5,8 @@
 
 - 🌩️ Eager to develop myself in a professional way _!!!_             
 - 👀 I’m interested in OOP & Algorithms  .  
-- 🌱 I’m currently learning C++, Python, HTML & CSS, Dart & Flutter
-- 🌱 Excited & Eager to learn : Java, Cloud mechanics, TeamUp & TeamWork .
+- 🌱 I’m currently learning C++, Python, HTML & CSS, Dart & Flutter.
+- 🌱 Excited & Eager to learn/try : Java,  QA Automation .
 
 
 - !!! Deep passion - programming ❤️
