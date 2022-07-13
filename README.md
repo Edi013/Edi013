@@ -4,7 +4,7 @@
 
 
 - 🌩️ Eager to develop myself in a professional way _!!!_             
-- 👀 I’m interested in OOP & Algorithms  .  
+- 👀 I’m interested in OOP & Algorithms, but this whole domain can't be described in one line 😉 .  
   🌱 What do I have knowledge of ? 
     ->Back-end & Logic: C++ (1 project), Java, Python(Algorithms - Artificial Intelligence)
     ->Front-end : HTML & CSS, JavaScript (No projects)
