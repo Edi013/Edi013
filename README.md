@@ -5,19 +5,27 @@
 
 - 🌩️ Eager to develop myself in a professional way _!!!_             
 - 👀 I’m interested in OOP & Algorithms  .  
-- 🌱 I’m currently learning C++, Python, HTML & CSS, Dart & Flutter.
-- 🌱 Excited & Eager to learn/try : Java,  QA Automation .
+  🌱 What do I have knowledge of ? 
+    ->Back-end & Logic: C++ (1 project), Java, Python(Algorithms - Artificial Intelligence)
+    ->Front-end : HTML & CSS, JavaScript (No projects)
+    ->Mobile: Kotlin, Dart & Flutter
+- 🌱 I’m currently learning Java, JavaScript (Angular & React)
+- 🌱 Excited & Eager to learn/try : DataBases 
 
 
-- !!! Deep passion - programming ❤️
--     Passion for - hardware (Thinkpads💻 & MacBooks💻, but 🖥️)  
+- ❤️ Deep passion - programming 
+-     Passion for - hardware (Thinkpads💻 & MacBooks💻, but the real business is 🖥️)  
 -              🎬 - interact with people, eye contact is an ART .
 -              💸 - economics, investments, be smart with your money  !
 - 
 
-- ♻️ I get my fun hunger from  - Hardware restoration, clean up  & recycling  
-- 📚                           - SF , Adventure , Apocalyptic movies, series🎬 or books📚 
-- 🥬                           - organizing time, things 
+- ♻️ I get my fun hunger from  
+  ❤️                       ! Organizing my next projects, so it's my Roadmap.
+                           !! Finding out things I do not know, for exemple:
+                                    -> it could be about the arhitecture of an app
+                                    -> the whole process of developing a project
+                                    -> stories that others share about their career-path 
+- 📚                      !!! Even programmers get tired: SF , Adventure , Apocalyptic movies, series🎬 and books📚, even videogames
 
 - 💞️ I’m looking to collaborate on anything which can improve myself  
 - 📫 Reach me at : ghenea.eduard02@gmail.com
