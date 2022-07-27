@@ -4,20 +4,20 @@
 
 
 - 🌩️ Eager to develop myself in a professional way _!!!_             
-- 👀 I’m interested in OOP & Algorithms, but this whole domain can't be described in one line 😉 .  
+- 👀 I’m interested in building software and having fun while doing so.
   🌱 What do I have knowledge of ? 
-    ->Back-end & Logic: C++ (1 project), Java, Python(Algorithms - Artificial Intelligence)
-    ->Front-end : HTML & CSS, JavaScript (No projects)
-    ->Mobile: Kotlin, Dart & Flutter
-- 🌱 I’m currently learning Java, JavaScript (Angular & React)
-- 🌱 Excited & Eager to learn/try : DataBases 
+    ->Back-end: C & C++ (1 project), Java, Python(Algorithms - Artificial Intelligence)
+    ->Front-end: HTML & CSS, JavaScript (No projects yet) 
+- 🌱 I’m currently learning JavaScript targeting full-stack knowledge. (React - Angular & Express.js)
+- 🌱 Excited to learn: DataBases 
 
 
 - ❤️ Deep passion - programming 
--     Passion for - hardware (Thinkpads💻 & MacBooks💻, but the real business is 🖥️)  
--              🎬 - interact with people, eye contact is an ART .
+-     Passion for - hardware (Thinkpads💻 & MacBooks💻, but the real productivity comes with 🖥️)  
+-              🎬 - interacting with people, eye contact is an ART. 
 -              💸 - economics, investments, be smart with your money  !
-- 
+
+ 
 
 - ♻️ I get my fun hunger from  
   ❤️                       ! Organizing my next projects, so it's my Roadmap.
@@ -25,7 +25,7 @@
                                     -> it could be about the arhitecture of an app
                                     -> the whole process of developing a project
                                     -> stories that others share about their career-path 
-- 📚                      !!! Even programmers get tired: SF , Adventure , Apocalyptic movies, series🎬 and books📚, even videogames
+- 📚                      !!! SF , Adventure , Apocalyptic movies, series🎬, books📚 and videogames 
 
 - 💞️ I’m looking to collaborate on anything which can improve myself  
 - 📫 Reach me at : ghenea.eduard02@gmail.com
