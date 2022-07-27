@@ -13,7 +13,7 @@
 - 🔜 Excited to learn: DataBases 
 -
 - 
-- #2 ♻️ I get my fun-hunger from my passions
+- #2 ♻️ My passions
 -              ❤️ - Programming. Creating & using tech. 
 -              🔆 - Organizing, planning and finding out things. 
 -              🎬 - SF, Adventure, Apocalyptic movies🎬, series🎬, books📚 and videogames🖥️.
