@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Edi013 - from Craiova (RO) 
-- 
-- __print_my_self__()
+-__print_my_self__()
 -
--
+- 👋 Hi, I’m Ghenea Eduard ( @Edi013 ) - from Craiova (RO) 
 - 👀 I’m interested in developing myself in a professional way _!!!_      
 -
 -
