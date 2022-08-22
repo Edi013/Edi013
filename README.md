@@ -10,7 +10,7 @@
 -          -HTML & CSS & JavaScript (with a small flavour of React)
            -Flutter & Dart 
            -C#
-  🔥 My favourites : Flutter + C# (If I was to get hired now, these would be my choise)
+  🔥 My favourites : Flutter + C# ( If I was to get hired now, this would be my choise )
 - 🔥 I’m currently developing skills of Flutter & Dart + C#
 - 🔜 Excited to learn: DataBases 
 -
