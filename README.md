@@ -6,12 +6,15 @@
 - 
 - #1 📚 What do I have knowledge of ? 
 -          -C & C++ (1 project uploaded) 
--          -Java 
 -          -Python (Algorithms - Artificial Intelligence)
--          -HTML & CSS & JavaScript (React - Angular & Express.js) 
-- 🔥 I’m currently learning JavaScript targeting full-stack knowledge. 
+-          -HTML & CSS & JavaScript (with a small flavour of React)
+           -Flutter & Dart 
+           -C#
+  🔥 My favourites : Flutter + C# (If I was to get hired now, these would be my choise)
+- 🔥 I’m currently developing skills of Flutter & Dart + C#
 - 🔜 Excited to learn: DataBases 
 -
+- 
 - 
 - #2 ♻️ My passions
 -              ❤️ - Programming. Creating & using tech. 
