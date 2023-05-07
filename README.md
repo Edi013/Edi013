@@ -1,7 +1,7 @@
 -__print_my_self__()
 -
 - 👋 Hi, I’m Ghenea Eduard ( @Edi013 ) - from Craiova (RO) 
-- 👀 I’m interested in developing myself in a professional way _!!!_      
+- 👀 I’m interested in software development and developing myself in a professional way _!!!_      
 -
 - 
 - #1 📚 What do I have knowledge of ? 
