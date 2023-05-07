@@ -20,7 +20,7 @@
 -              ❤️ - Programming. Creating & using tech. 
 -              🔆 - Organizing, planning and finding out things. 
 -              🎬 - SF, Adventure, Apocalyptic movies🎬, series🎬, books📚 and videogames🖥️.
--              💸 - Hardware (Thinkpads💻 & MacBooks💻, but the real productivity comes with 🖥️).
+-              💸 - Hardware (Thinkpads💻 & MacBooks💻, but the real deal are 🖥️).
 -  
 - 
 - #3 💞️ I’m looking to collaborate on anything which can improve myself  
