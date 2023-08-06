@@ -4,16 +4,16 @@
 - 👀 I’m interested in software development and developing myself in a professional way !!!      
 -
 - #1 📚 What do I have knowledge of ? 
--            - .NET C#
--            - Angular
--            - Flutter & Dart
--            - PHP
--            - Databases : SQL, MongoDB, MySQL, LiteDB
--            - SCRUM Metodology
--            - Git (github / bitbucket)
--            - Python (Algorithms - Artificial Intelligence)
--            - HTML & CSS & JavaScript
--            - C & C++
+-            .NET C#
+-            Angular
+-            Flutter & Dart
+-            PHP
+-            Databases : SQL, MongoDB, MySQL, LiteDB
+-            SCRUM Metodology
+-            Git (github / bitbucket)
+-            Python (Algorithms - Artificial Intelligence)
+-            HTML & CSS & JavaScript
+-            C & C++
 - 🔥 Constantly developing: learning how to learn / concepts / principles.      
 - 🔥 I’m currently developing skills of Angular / .NET / Flutter. 
 - 
