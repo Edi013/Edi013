@@ -1,30 +1,34 @@
 -__print_my_self__()
 -
 - 👋 Hi, I’m Ghenea Eduard ( @Edi013 ) - from Craiova (RO) 
-- 👀 I’m interested in software development and developing myself in a professional way _!!!_      
+- 👀 I’m interested in software development and developing myself in a professional way !!!      
 -
-- 
 - #1 📚 What do I have knowledge of ? 
--          -C & C++ (1 project uploaded) 
--          -Python (Algorithms - Artificial Intelligence)
--          -HTML & CSS & JavaScript (with a small flavour of React)
-           -Flutter & Dart 
-           -C#
-  🔥 My favourites : Flutter + C# ( If I was to get hired now, this would be my choise )
-- 🔥 I’m currently developing skills of Flutter & Dart + C#
-- 🔜 Excited to learn: DataBases 
--
-- 
+-            - .NET C#
+-            - Angular
+-            - Flutter & Dart
+-            - PHP
+-            - Databases : SQL, MongoDB, MySQL, LiteDB
+-            - SCRUM Metodology
+-            - Git (github / bitbucket)
+-            - Python (Algorithms - Artificial Intelligence)
+-            - HTML & CSS & JavaScript
+-            - C & C++
+- 🔥 Constantly developing: learning how to learn / concepts / principles.      
+- 🔥 I’m currently developing skills of Angular / .NET / Flutter. 
 - 
 - #2 ♻️ My passions
--              ❤️ - Programming. Creating & using tech. 
+-              ❤️ - Programming.
+-              🚗 - Driving, the process itself.
 -              🔆 - Organizing, planning and finding out things. 
 -              🎬 - SF, Adventure, Apocalyptic movies🎬, series🎬, books📚 and videogames🖥️.
 -              💸 - Hardware (Thinkpads💻 & MacBooks💻, but the real deal are 🖥️).
--  
-- 
-- #3 💞️ I’m looking to collaborate on anything which can improve myself  
-- 📫 Reach me at : ghenea.eduard02@gmail.com
+-
+- #3 🎓 Final year at University of Craiova, Faculty of Science, Informatics Department.
+-
+- #4 💞️ I’m looking to collaborate on anything which can improve myself  
+- 📫 Reach me at :
+- 📫   Email     ghenea.eduard02@gmail.com 
 - 📫   Discord   EdiTu#1934 
 - 📫   LinkedIn  https://www.linkedin.com/in/eduard-ghenea-a88675238/
 - 📫   Facebook  https://www.facebook.com/Ghenea.Eduard
