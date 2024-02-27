@@ -1,8 +1,8 @@
 -__print_my_self__()
 -
 - 👋 Hi, I’m Ghenea Eduard ( @Edi013 ) - from Craiova (RO) 
-- 👀 I’m interested in software development !     
--
+- 👀 I’m interested in software development    
+
 - #1 📚 What do I have knowledge of ? 
 -            .NET C#
 -            Angular
