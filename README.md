@@ -19,9 +19,10 @@
 - 🔥 I’m currently developing personal projects throughout my university, meaning the use of diverse stacks of tehnologies and soft skills along the way.
 
 - #2 ♻️ My passions
--              ❤️ - Programming.
+-              ❤️ - Programming (software, operating systems, protocolos, network related )
 -              🚗 - Driving.
 -              🔆 - Organising, planning, thinking big.
+-              🎮 - Gaming
 -              🎬 - SF, Adventure, Apocalyptic movies🎬, series🎬, books📚 and videogames🖥️.
 -              💸 - Hardware (Thinkpads💻 & MacBooks💻, but the real deal are PCs🖥️).
 
