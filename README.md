@@ -1,28 +1,28 @@
 -__print_my_self__()
 -
 - 👋 Hi, I’m Ghenea Eduard ( @Edi013 ) - from Craiova (RO) 
-- 👀 I’m interested in software development and developing myself in a professional way !!!      
+- 👀 I’m interested in software development !     
 -
 - #1 📚 What do I have knowledge of ? 
 -            .NET C#
 -            Angular
 -            Flutter & Dart
 -            PHP
--            Databases : SQL, MongoDB, MySQL, LiteDB
+-            Databases : PostgreSQL, Oracle, SQL, MongoDB, MySQL, LiteDB
 -            SCRUM Metodology
 -            Git (github / bitbucket)
 -            Python (Algorithms - Artificial Intelligence)
 -            HTML & CSS & JavaScript
--            C & C++
-- 🔥 Constantly developing: learning how to learn / concepts / principles.      
-- 🔥 I’m currently developing skills of Angular / .NET / Flutter. 
+-            C & C++ ( STL ) 
+- 🔥 Constantly developing: learning how to learn, concepts ans principles.      
+- 🔥 I’m currently developing skills of Angular / .NET / Flutter. and soft skills along the way.
 - 
 - #2 ♻️ My passions
 -              ❤️ - Programming.
--              🚗 - Driving, the process itself.
--              🔆 - Organizing, planning and finding out things. 
+-              🚗 - Driving.
+-              🔆 - Organising, planning, thinking big.
 -              🎬 - SF, Adventure, Apocalyptic movies🎬, series🎬, books📚 and videogames🖥️.
--              💸 - Hardware (Thinkpads💻 & MacBooks💻, but the real deal are 🖥️).
+-              💸 - Hardware (Thinkpads💻 & MacBooks💻, but the real deal are PCs🖥️).
 -
 - #3 🎓 Final year at University of Craiova, Faculty of Science, Informatics Department.
 -
