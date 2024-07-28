@@ -3,7 +3,7 @@
 
 ## I’m interested in software development
  - I'm currently working on a private crossplatform application - RemindMe. For demo purposes contact me.
- - I'm currently mainly improving my Flutter, .NET, Rust, C++, Docker and PostgreSQL skills.
+ - I'm currently mainly improving my  .NET, C++, Flutter, Rust,  Docker and PostgreSQL skills.
 
 ## 📫 Reach me at
 [![Email](https://img.shields.io/badge/Email-ghenea.eduard02%40gmail.com-blue)](ghenea.eduard02@gmail.com)  
