@@ -3,7 +3,8 @@
 
 ## I’m interested in software development
  - I'm currently searching for openings !
- - I'm mainly improving my software development skills as .NET, C++, Flutter, Rust,  Docker and PostgreSQL. I am interested in devops and security as well.
+ - I'm mainly improving my software development skills as .NET, C++, Flutter, Rust, Go,  Docker and PostgreSQL.
+ - I am interested in other areas as devops and cybersec.
 
 ## 📫 Reach me at
 [![Email](https://img.shields.io/badge/Email-ghenea.eduard02%40gmail.com-blue)](ghenea.eduard02@gmail.com)  
