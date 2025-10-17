@@ -2,7 +2,6 @@
 <h1 style="text-align: center;">👋 Hi, I’m Ghenea Eduard ( @Edi013 ) - from Craiova (RO)</h1>
 
 ## I’m interested in software development
- - I'm currently searching for openings !
  - I'm mainly improving my software development skills as .NET, C++, Flutter, Rust, Go,  Docker and PostgreSQL.
  - I am interested in other areas as devops and cybersec.
 
