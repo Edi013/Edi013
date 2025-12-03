@@ -1,9 +1,9 @@
 
 <h1 style="text-align: center;">👋 Hi, I’m Ghenea Eduard ( @Edi013 ) - from Craiova (RO)</h1>
 
-## I’m interested in software development
- - I'm mainly improving my software development skills as .NET, C++, Flutter, Rust, Go,  Docker and PostgreSQL.
- - I am interested in other areas as devops and cybersec.
+## I’m interested in Computer Science 
+ - Software Development
+ -  Cybersec
 
 ## 📫 Reach me at
 [![Email](https://img.shields.io/badge/Email-ghenea.eduard02%40gmail.com-blue)](ghenea.eduard02@gmail.com)  
